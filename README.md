@@ -1,3 +1,3 @@
 # WAP
 Odkaz:
-wap.jednoduse.cz
+https://wap.jednoduse.cz/
